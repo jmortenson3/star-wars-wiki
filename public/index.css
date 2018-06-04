@@ -1,0 +1,14 @@
+.jumbotron {
+  background-color: black;
+  color: yellow;
+  text-align: center;
+}
+
+.jumbotron form {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 5px;
+}
+.jumbotron form input {
+  margin-bottom: 5px;
+}
